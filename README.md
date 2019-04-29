@@ -48,11 +48,15 @@ Park - Parks the actuators if in standby mode
 
   *Commands with asterisk in front may not change value
 
-The CMD$$ displays each parameter, and spv$$### saves each parameter with the value indicated. To actually store the parameters in the flash memory you need to send "spv45" to save all parameters at once. The "$$" on the spv is the command number, and the "###" is the value, Some prameters have single digit value, some two digit value and some 3 digit value. All values are characters!
+The CMD$$ displays each parameter, and spv$$### saves each parameter with the value indicated. 
+To actually store the parameters in the flash memory you need to send "spv45" to save all 
+parameters at once. The "$$" on the spv is the command number, and the "###" is the value, 
+Some prameters have single digit value, some two digit value and some 3 digit value. 
+All values are characters!
 
- Here is a list of the default parameters values you should get when you issue the CMD44 command
- if not like this, you may reset the default parameters via button combination:
-.
+Here is a list of the default parameters values you should get when you issue the CMD44 command
+(if not like this, you may reset the default parameters via button combination)
+
 01.Motornumber 2-8: 4
 02.Dataformat 1-2: 1
 03.Print Feedback 1-2: 1
