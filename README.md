@@ -26,20 +26,21 @@ release date: 04/29/2019:
 ##The parameters can be changed via terminal (250000 bps)
 ```
  ---List of commands---
-CMD01 Motornumber: spv012-spv018
-*CMD02 Dataformat: spv021-spv022
-*CMD03 Print Feedback: spv031-spv032
-CMD04 Park Position: spv04001-spv04254
-CMD05 Park Move Speed: spv05001-spv05100
-CMD06 Park Move Timeout: spv0601-spv0690
-CMD07 Standby Position:  spv07010-spv07245
-CMD08 Standby Speed: spv08000-spv08100
-CMD09 Standby Timeout: spv0901-spv0990
-CMD10 Disable park type: spv111-spv114
-*CMD11 Output type: spv111-spv114
-*CMD12 Output mode: spv121-spv124
-CMD13 Actuator Limits:  spv1300-spv1350
-CMD14 Kill switch mode:  spv141-spv142
+| Display Parameter    |   | Save Parameter |
+CMD01 Motornumber:          spv012-spv018
+*CMD02 Dataformat:          spv021-spv022
+*CMD03 Print Feedback:      spv031-spv032
+CMD04 Park Position:        spv04001-spv04254
+CMD05 Park Move Speed:      spv05001-spv05100
+CMD06 Park Move Timeout:    spv0601-spv0690
+CMD07 Standby Position:     spv07010-spv07245
+CMD08 Standby Speed:        spv08000-spv08100
+CMD09 Standby Timeout:      spv0901-spv0990
+CMD10 Disable park type:    spv111-spv114
+*CMD11 Output type:         spv111-spv114
+*CMD12 Output mode:         spv121-spv124
+CMD13 Actuator Limits:      spv1300-spv1350
+CMD14 Kill switch mode:     spv141-spv142
 CMD44 Display all parameters values
 CMD45 Print this help page
 spv45 Saves all parameters at once
