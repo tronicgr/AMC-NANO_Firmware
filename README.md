@@ -23,10 +23,10 @@ release date: 04/29/2019:
 -The four buttons do what they supposed to (move UP, move DOWN, Ready position, Park position).
   The actuators keep moving up or down smooth as long you hold each button.
 ```
-##The parameters can be changed via terminal (250000 bps)
-```
- ---List of commands---
-```
+### The parameters can be changed via terminal (250000 bps)
+
+### ---List of commands---
+
 Command Number | Display Parameter | Save Parameter
 ------------| ------------ | -------------
 CMD01 | Motornumber:| spv012-spv018
@@ -46,12 +46,11 @@ CMD14 |Kill switch mode: | spv141-spv142
 CMD44 |Display all parameters | in a list
 CMD45 |Print this help page | in a list
 spv45 |Saves all parameters | at once
+RQM |  Displays model,revision and number of motors
+Park | Parks the actuators if in standby mode
 
 ```
-RQM - Displays model,revision and number of motors
-Park - Parks the actuators if in standby mode
-
-  *Commands with asterisk in front may not change value
+  Some Commands may not change value - locked
 
 The CMD$$ displays each parameter, and spv$$### saves each parameter with the value indicated. 
 To actually store the parameters in the flash memory you need to send "spv45" to save all 
