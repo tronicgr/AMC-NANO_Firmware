@@ -18,7 +18,7 @@ release date: 04/29/2019:
 -Added automatic return to Park position (low position)
 -Added manual Park/Standy/Emergency input
 -Added manual Force Offline input (can be used to park the platform during gameplay).
--Easy reset to default parameters byt holding Ready button while pressing Reset button.
+-Easy reset to default parameters by holding Ready button while pressing Reset button.
   The LED will blink 5 times to indicate parameters were restored to default.
 -The four buttons do what they supposed to (move UP, move DOWN, Ready position, Park position).
   The actuators keep moving up or down smooth as long you hold each button.
