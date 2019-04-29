@@ -43,9 +43,9 @@ CMD11 |Output type: | spv111-spv114
 CMD12 |Output mode: | spv121-spv124
 CMD13 |Actuator Limits: | spv1300-spv1350
 CMD14 |Kill switch mode: | spv141-spv142
-CMD44 |Display all parameters | in a list
-CMD45 |Print this help page | in a list
-spv45 |Saves all parameters | at once
+CMD44 |Display all parameters 
+CMD45 |Print this help page 
+spv45 |Saves all parameters at once
 RQM |  Displays model,revision and number of motors
 Park | Parks the actuators if in standby mode
 
