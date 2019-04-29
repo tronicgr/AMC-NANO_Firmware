@@ -13,5 +13,5 @@ Basic firmware with new IF (FF FF) and support for 4DOF
 
 
 Wiring Diagram for emergency buttons and switches
-![AMC-NANO Buttons](AMC-NANO park-standby-emergency-force-offline diagram.jpg)
+![AMC-NANO Buttons](/AMC-NANO park-standby-emergency-force-offline diagram.jpg)
 
