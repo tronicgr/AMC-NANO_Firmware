@@ -12,11 +12,12 @@ Basic firmware with new IF (FF FF) and support for 4DOF
 ```
 
 
-### ======= enc_4dof_AMC-NANO_v1d =======
+### ======= enc_4dof_AMC-NANO_v1d AutoPark =======
 ```
 release date: 04/29/2019: 
--Added Park/Standy/Emergency input
--Added Force Offline input (can be used to park the platform during gameplay).
+-Added automatic return to Park position (low position)
+-Added manual Park/Standy/Emergency input
+-Added manual Force Offline input (can be used to park the platform during gameplay).
 -Easy reset to default parameters byt holding Ready button while pressing Reset button.
   The LED will blink 5 times to indicate parameters were restored to default.
 -The four buttons do what they supposed to (move UP, move DOWN, Ready position, Park position).
