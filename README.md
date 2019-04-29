@@ -61,12 +61,12 @@ Here is a list of the default parameters values you should get when you issue th
 01.Motornumber 2-8: 4
 02.Dataformat 1-2: 1
 03.Print Feedback 1-2: 1
-04.Park Position 0-254: 10
-05.Park_Move_Speed 1-100%: 5
-06.Park_Move_Timeout 1-90: 10
+04.Park Position 0-254: 1
+05.Park_Move_Speed 1-100%: 11
+06.Park_Move_Timeout 1-90: 5
 07.Standby Position 10-245: 127
-08.Standby Speed 0-100%: 20
-09.Standby Timeout 1-90: 10
+08.Standby Speed 0-100%: 24
+09.Standby Timeout 1-90: 5
 10.Disable park type 1-4: 1
 11.Output type 1-4: 4
 12.Output mode 1-4: 3
