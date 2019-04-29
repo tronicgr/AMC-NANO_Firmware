@@ -51,7 +51,7 @@ Park - Parks the actuators if in standby mode
 The CMD$$ displays each parameter, and spv$$### saves each parameter with the value indicated. 
 To actually store the parameters in the flash memory you need to send "spv45" to save all 
 parameters at once. The "$$" on the spv is the command number, and the "###" is the value, 
-Some prameters have single digit value, some two digit value and some 3 digit value. 
+Some parameters have single digit value, some two digit value and some 3 digit value. 
 All values are characters!
 
 Here is a list of the default parameters values you should get when you issue the CMD44 command
