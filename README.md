@@ -23,6 +23,11 @@ release date: 04/29/2019:
 -The four buttons do what they supposed to (move UP, move DOWN, Ready position, Park position).
   The actuators keep moving up or down smooth as long you hold each button.
 ```
+
+### watch video that describe the new functions:
+https://youtu.be/lP70oLAv00g
+
+
 ### The parameters can be changed via terminal (250000 bps)
 
 ### ---List of commands---
