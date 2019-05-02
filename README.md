@@ -27,6 +27,8 @@ release date: 04/29/2019:
 ### watch video that describe the new functions:
 https://youtu.be/lP70oLAv00g
 
+### watch video of the power up sequence on the linear servomotor:
+https://www.youtube.com/watch?v=yuvV4GP_SdY
 
 ### The parameters can be changed via terminal (250000 bps)
 
