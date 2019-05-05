@@ -25,7 +25,7 @@ release date: 04/29/2019:
 ```
 
 ### watch video that describe the new functions:
-https://youtu.be/lP70oLAv00g
+https://www.youtube.com/watch?v=lP70oLAv00g
 
 ### watch video of the power up sequence on the linear servomotor:
 https://www.youtube.com/watch?v=yuvV4GP_SdY
