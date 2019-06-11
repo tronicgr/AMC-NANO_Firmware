@@ -74,6 +74,10 @@ Here is a list of the default parameters values you should get when you issue th
 10.Disable park type 1-4: 1
 13.Actuator Limits 0-50%: 1
 14.Kill switch mode 1-2: 1
+
+CMD55 returns:
+"data:" ; Motornumber ; ":" ; Park_position ; ":" ; Parkmovespeed ; ":" ; Parkmovetimeout ; ":" ; StandbyPosition ; ":" ; StandbySpeed ; ":" ; StandbyTimeout ; ":" ; Disableparktype ; ":" ; Actuator Limits ; ":" ; Killswitchmode ; ":"
+
 ```
 
 ##Wiring Diagram for emergency buttons and switches
