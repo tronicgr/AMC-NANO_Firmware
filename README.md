@@ -4,6 +4,12 @@ Firmware updates for the AMC-NANO
 ##Firmware procedure video for AMC-NANO:
 https://www.youtube.com/watch?v=VA3Wm23lna4
 
+### ======= enc_4dof_AMC-NANO_v1e AutoPark =======
+```
+release date: 06/11/2019: 
+-Fixed serial command set for better integration with Simtools control software
+-Added new Simtools interface plugin
+```
 
 ### ======= enc_4dof_AMC-NANO_v1d AutoPark =======
 ```
