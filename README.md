@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=VA3Wm23lna4
 
 ### ======= enc_4dof_AMC-NANO_v1e AutoPark =======
 ```
-release date: 06/11/2019: 
+release date: 06/12/2019: 
 -Fixed serial command set for better integration with Simtools control software
 -Added new Simtools interface plugin
 ```
@@ -75,8 +75,8 @@ Here is a list of the default parameters values you should get when you issue th
 13.Actuator Limits 0-50%: 1
 14.Kill switch mode 1-2: 1
 
-CMD55 returns:
-"data:" ; Motornumber ; ":" ; Park_position ; ":" ; Parkmovespeed ; ":" ; Parkmovetimeout ; ":" ; StandbyPosition ; ":" ; StandbySpeed ; ":" ; StandbyTimeout ; ":" ; Disableparktype ; ":" ; Actuator Limits ; ":" ; Killswitchmode ; ":"
+CMD55 returns the following numeric values separated by colon ( : ) punctuation mark:
+"data:" <Motornumber> ":" <Parkposition> ":" <Parkmovespeed> ":" <Parkmovetimeout> ":" <StandbyPosition> ":" <StandbySpeed> ":"<StandbyTimeout> ":" <Disableparktype> ":" <ActuatorLimits> ":" <Killswitchmode> ":" <Firmwareversion>
 
 ```
 
