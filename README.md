@@ -1,12 +1,13 @@
 # AMC-NANO_Firmware
 Firmware updates for the AMC-NANO
 
-## Firmware procedure video for AMC-NANO:
+### Firmware procedure video for AMC-NANO:
 https://www.youtube.com/watch?v=VA3Wm23lna4
 
 
-## You can use the AMC config utility to access and modify the important parameters in the AMC-NANO:
+### You can use the AMC config utility to access and modify the important parameters in the AMC-NANO:
 https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Utility.zip
+
 
 
 ### ======= enc_4dof_AMC-NANO_v1e AutoPark =======
