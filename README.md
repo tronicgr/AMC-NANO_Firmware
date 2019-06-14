@@ -12,9 +12,10 @@ https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Utility.zip
 
 ### ======= enc_4dof_AMC-NANO_v1e AutoPark =======
 ```
-release date: 06/12/2019: 
+release date: 06/13/2019: 
 -Fixed serial command set for better integration with Simtools control software
 -Added new Simtools interface plugin
+-Provides access to parameters via AMC Config utility
 ```
 
 ### ======= enc_4dof_AMC-NANO_v1d AutoPark =======
