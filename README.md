@@ -5,9 +5,17 @@ Firmware updates for the AMC-NANO
 https://www.youtube.com/watch?v=VA3Wm23lna4
 
 
-### You can use the AMC config utility to access and modify the parameters in the AMC-NANO:
-https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Utility.zip
+### You can use the AMC config tool to access and modify the parameters in the AMC-NANO:
+https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Tool.zip
 
+![Alt Text](https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_config_NANO.jpg)
+
+
+### ======= enc_4dof_AMC-NANO_v2_00 =======
+```
+release date: 06/17/2019: 
+-Provides access to parameters via AMC Config utility
+```
 
 
 ### ======= enc_4dof_AMC-NANO_v1e AutoPark =======
@@ -15,7 +23,6 @@ https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Utility.zip
 release date: 06/13/2019: 
 -Fixed serial command set for better integration with Simtools control software
 -Added new Simtools interface plugin
--Provides access to parameters via AMC Config utility
 ```
 
 ### ======= enc_4dof_AMC-NANO_v1d AutoPark =======
