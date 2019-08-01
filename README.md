@@ -10,6 +10,11 @@ https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Tool.zip
 
 ![Alt Text](https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_config_NANO.jpg)
 
+### ======= enc_4dof_AMC-NANO_v2_01 =======
+```
+release date: 08/01/2019: 
+-Small bugfix where the the stroke position was set to 100% with Emergency Switch activated on power on.
+```
 
 ### ======= enc_4dof_AMC-NANO_v2_00 =======
 ```
