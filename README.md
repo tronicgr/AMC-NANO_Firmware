@@ -10,6 +10,14 @@ https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Tool.zip
 
 ![Alt Text](https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_config_NANO.jpg)
 
+### ======= enc_4dof_AMC-NANO_v2_02 =======
+```
+release date: 08/19/2019: 
+-Added new disable park option for 6DOF + rotation type platforms
+-Fixed a missing link for saving permanently remotely parameters via AMC Config Tool.
+-Updated the AMC Config Tool to support this addition disable park option as well (AMC tool v1.1)
+```
+
 ### ======= enc_4dof_AMC-NANO_v2_01 =======
 ```
 release date: 08/01/2019: 
