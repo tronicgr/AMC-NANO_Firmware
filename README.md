@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=VA3Wm23lna4
 
 
 ### You can use the AMC config tool to access and modify the parameters in the AMC-NANO:
-https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Tool.zip
+https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Tool_1_1.zip
 
 ![Alt Text](https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_config_NANO.jpg)
 
