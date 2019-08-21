@@ -3,7 +3,9 @@ Firmware updates for the AMC-NANO
 
 ### Firmware procedure video for AMC-NANO:
 (short version) https://www.youtube.com/watch?v=VA3Wm23lna4
+
 (full length version) https://www.youtube.com/watch?v=BYze3gyiI1Q
+
 
 ### You can use the AMC config tool to access and modify the parameters in the AMC-NANO:
 https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Tool_1_1.zip
