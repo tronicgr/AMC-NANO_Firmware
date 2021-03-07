@@ -12,6 +12,15 @@ https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Tool_1_1.zi
 
 ![Alt Text](https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_config_NANO.jpg)
 
+### ======= enc_4dof_AMC-NANO_v2_11 fix4 =======
+```
+release date: 03/1907/2021: 
+-Added support for SRS motion software
+-Added spike filter function
+-It can now adjust spike filter values remotely parameters via AMC Config Tool v1.2 
+-Updated the AMC Config Tool v1.2 to support disable park option for the AMC-NANO
+```
+
 ### ======= enc_4dof_AMC-NANO_v2_02 =======
 ```
 release date: 08/19/2019: 
