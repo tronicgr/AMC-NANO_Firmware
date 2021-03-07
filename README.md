@@ -8,13 +8,13 @@ Firmware updates for the AMC-NANO
 
 
 ### You can use the AMC config tool to access and modify the parameters in the AMC-NANO:
-https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_Tool_1_1.zip
+https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_Config_tool_1_2.zip
 
-![Alt Text](https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC_config_NANO.jpg)
+![Alt Text](https://github.com/tronicgr/AMC-NANO_Firmware/blob/master/AMC-Config-tool-v1_2_NANO.jpg)
 
 ### ======= enc_4dof_AMC-NANO_v2_11 fix4 =======
 ```
-release date: 03/1907/2021: 
+release date: 03/07/2021: 
 -Added support for SRS motion software
 -Added spike filter function
 -It can now adjust spike filter values remotely parameters via AMC Config Tool v1.2 
